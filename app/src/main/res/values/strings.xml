@@ -1,0 +1,175 @@
+<resources>
+    <string name="app_name">Kerkly V5</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+
+    <string name="klerkly">Kerkly</string>
+    <string name="iniciarSesion">Iniciar Sesión</string>
+    <string name="usuario">Número Celular</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="crear">Crear cuenta</string>
+    <string name="olvidarContrasenia"><u>¿Olvidaste la contraseña?</u></string>
+    <string name="pruebaSinRegistro">Prueba sin registro</string>
+    <string name="title_activity_solicitar_servicio">SolicitarServicio</string>
+
+
+    <string name="bienvenido">¡Bienvenido!</string>
+    <string name="servicio">Servicio</string>
+    <string name="escribirProblematica">Escriba su problemática</string>
+    <string name="direccion">Dirección</string>
+    <string name="servicio_express">Servicio Expréss</string>
+    <string name="pago">Pago</string>
+    <string name="cuentaUsuario">Nombre de usuario</string>
+    <string name="cerrarSesion">Cerrar Sesión</string>
+    <string name="contratos">Contratos</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="politica_privacidad">Política de privacidad</string>
+    <string name="total">Total a pagar</string>
+    <string name="nombreTitular">Nombre del titular</string>
+    <string name="numeroTarjeta">Número de tarjeta</string>
+    <string name="CCV">CCV</string>
+    <string name="MM">MM</string>
+    <string name="AA">AA</string>
+    <string name="descargar">Descargar</string>
+    <string name="pagarAhora">Pagar ahora</string>
+    <string name="contrato">Contrato</string>
+    <string name="intento">Intento 01</string>
+    <string name="folio"><b>Folio:</b> 0118</string>
+    <string name="horaContrato">09:48 AM</string>
+    <string name="lugarFecha">En <u>Chilpancingo</u> a <u>03</u> de <u>Julio</u> del <u>2021</u> </string>
+    <string name="cupertoContrato">El solicitante <u> Juan Hernández Ruíz
+    </u> pagó la cantidad de <u> $1,500.00 MXN</u>,
+    por la contratación del servicio de <u> plomería</u> bajo
+        el cargo de <u> Pablo López García</u> en la dirección
+        registrada.</string>
+    <string name="formaPago">Forma de pago por tarjeta de débito.</string>
+    <string name="atteContrato"><u>Equipo KERKLY</u></string>
+    <string name="bienvenida_kerkly">Bienvenida a KERKLY</string>
+    <string name="cuenta_creada">Tu cuenta ha sido creada con éxito</string>
+    <string name="contrania_modificada">Su contraseña ha sido modificada</string>
+    <string name="descargar_necesita_cuenta">Para descargar el recibo necesita crear una cuenta</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="visualizar_contrato">Para visualizar un contrato necesita crearse una cuenta</string>
+    <string name="cerrar_sesionConfirmacion">¿Estás seguro que quieres cerrar sesión?</string>
+    <string name="descarga_exito">Su descarga ha sido completada con éxito</string>
+    <string name="recuperar_cuenta">Recupera tu cuenta</string>
+    <string name="introduce_cuenta">Introduce tu dirección de correo electrónico</string>
+    <string name="correo_electrónico">Correo Electrónico</string>
+    <string name="enviar_codigo">Enviar código al correo electrónico</string>
+    <string name="introducir_codigo">Introduce el código</string>
+    <string name="texto_codigo_ayuda">Ingresa el código que recibiste en tu correo electrónico para recuperar tu cuenta</string>
+    <string name="continuar">Continuar</string>
+    <string name="ingreseCaracteres">Ingrese los 16 dígitos de la tarjeta</string>
+    <string name="ingreseCCV">Ingrese los 3 dígitos del número CCV</string>
+    <string name="tucuenta">Registrate en KERKLY</string>
+    <string name="introduce_datos">Introduce tus datos</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido_paterno">Apellido Paterno</string>
+    <string name="apellido_matenrno">Apellido Materno</string>
+    <string name="introduce_telefono">Teléfono</string>
+    <string name="genero">Género</string>
+    <string name="introducir_correo">Introduce tu direeccion de correo electrónico</string>
+    <string name="crear_contrasenia">Crea una contraseña</string>
+    <string name="descripcion_contra">Asegúrese de que la contraseña cuente con al menos 8 caracteres e incluir mayúsculas, minúsculas, números y un caractrer especial. </string>
+    <string name="guardar">Guardar</string>
+    <string name="nueva_contra">Elija una nueva contraseña</string>
+    <string name="correo_error">Correo inválido</string>
+    <string name="telefono_error">Teléfono inválido</string>
+    <string name="contra_invalida">Contraseña inválida</string>
+    <string name="contras_no_coinciden">Las contraseñas no coinciden</string>
+    <string name="campo_requerido">Campo Requerido</string>
+    <string name="correo_igual_error">Este correo ya existe</string>
+    <string name="telefono_igual_error">Este teléfono ya existe</string>
+    <string name="telefonoNoRegistrado_confirmar">Para continuar, confirme su nùmero telefónico</string>
+    <string name="presupuesto">Presupuesto</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="deFrom">De</string>
+    <string name="paraTo">Para mí:</string>
+    <string name="cuerpoMensaje">Cuerpo del mensaje</string>
+    <string name="escribir_mensaje">Escribir mensaje</string>
+    <string name="informacion">Información</string>
+    <string name="mensaje_informacion"> Su solicitud es importante para nosotros, en cuanto un Kerkly esté
+        disponible lo contactaremos.</string>
+    <string name="gracias_comprension">¡Gracias por su compresión!</string>
+    <string name="mensaje_informacion2"> Su solicitud de presupuesto se esta procesando, en cuanto este lista
+        se le notificará.</string>
+    <string name="presupuesto_listo">Su presupuesto esta listo, puede visualizarlo en el siguiente archivo PDF.
+    </string>
+    <string name="rechazar">Rechazar</string>
+    <string name="nuevoPresupuesto">Nuevo presupuesto</string>
+    <string name="home">Volver al inicio</string>
+    <string name="ordenes_pendientes">Órdenes pendientes</string>
+    <string name="mensajes">Mensajes</string>
+    <string name="historial">Historial</string>
+    <string name="confirmarDireccion">Confirme su dirección</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="estado">Estado</string>
+    <string name="pais">País</string>
+    <string name="colonia">Colonia</string>
+    <string name="calle">Calle</string>
+    <string name="numero_ext">Número exterior</string>
+    <string name="codigoPostal">Código Postal</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="numeroRegistrado_error">El número telefónico ya se encuentro registrado</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="referencia">Referencia</string>
+    <string name="titulo_notificacionPresupuesto">Presupuesto</string>
+    <string name="cuerpo_notificacionPresupuesto">Se ha enviado con éxito el presupuesto al Kerkly</string>
+    <string name="buenas_tardes_cliente">Estimado cliente, reciba un cordial saludo.</string>
+    <string name="cuerpo_mensaje_presupuesto">En el siguiente archivo PDF puede visualizar el presupuesto, si usted
+    está de acuerdo con el presupuesto mostrado, puede aceptarlo para proceder con el servicio técnico.</string>
+    <string name="confirmar_nombreNoR">Para continuar con el servicio solicitado,
+    confirme sus datos.</string>
+    <string name="forma_pago">Forma de pago</string>
+    <string name="elegir_formaPago">Elige alguna de las formas de pago para continuar.
+    </string>
+    <string name="oxxo">OXXO</string>
+    <string name="transferencia_bancaria">Transferencia Bancaria</string>
+    <string name="pagar_oxxo">Dirigete a una sucursal de OXXO y realiza el pago correspondiente.</string>
+    <string name="a_nombre_De">A nombre de:</string>
+    <string name="banco">Banco</string>
+    <string name="referencia_bancaria">Referencia Bancaria</string>
+    <string name="advertencia_comision_oxxo">El total a pagar no incluye la comisión de la tienda OXXO</string>
+    <string name="subir_voucher">Subir  voucher</string>
+    <string name="transferencia_bancaria_aviso">Desde tu celular dirígete a la aplicación de tú
+        banco para realizar la transferencia bancaria por el monto establecido en tu presupuesto.
+    </string>
+    <string name="clabe">Número de CLABE interbancaria</string>
+    <string name="comprobante_pago">Comprobante de pago</string>
+    <string name="tomar_foto">Tomar foto</string>
+    <string name="seleccionar_foto">Seleccionar foto</string>
+    <string name="notificaciones">Notificaciones</string>
+    <string name="escocger_kerkly">Elija a su Kerkly</string>
+    <string name="historial_contratos">Historial de contratos</string>
+    <string name="lista_chats">Chats</string>
+
+    <string-array name="generos">
+        <item>Hombre</item>
+        <item>Femenino</item>
+        <item>Otro</item>
+    </string-array>
+    <string-array name="oficios">
+        <item>Electricista</item>
+        <item>Plomero</item>
+        <item>Mecánico</item>
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps_ker">MapsActivityKer</string>
+
+    <string name="llave_api_google_maps">AIzaSyCKtLDUW6EKmzmlonLmg3wxcFxFjuxRePA</string>
+
+</resources>

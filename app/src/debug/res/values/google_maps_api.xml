@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=58:8C:1F:05:D8:31:CC:8A:33:19:42:59:86:4A:F3:4D:2A:33:70:5D%3Bcom.example.kerklyv5.vista
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.example.kerklyv5.vista
+
+    SHA-1 certificate fingerprint:
+    58:8C:1F:05:D8:31:CC:8A:33:19:42:59:86:4A:F3:4D:2A:33:70:5D
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="true">AIzaSyB8XxJy20u3luNUoTHyyGt65pV3gCDq79k</string>
+</resources>

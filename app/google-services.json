@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "project_number": "121612991169",
+    "firebase_url": "https://kerkly-9dc30-default-rtdb.firebaseio.com",
+    "project_id": "kerkly-9dc30",
+    "storage_bucket": "kerkly-9dc30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121612991169:android:939f58b2f90bbd6df3b240",
+        "android_client_info": {
+          "package_name": "com.example.kerkly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121612991169-56nnjg6brhko09ho5i5q5m5214a2h4ig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAENsgDg556I1bxdshgDUU_vILYXpJ6hvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121612991169-56nnjg6brhko09ho5i5q5m5214a2h4ig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121612991169:android:35077ba549088ac6f3b240",
+        "android_client_info": {
+          "package_name": "com.example.kerklyt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121612991169-opck30divplperl2mvqnolk5sb4sjfj2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kerklyt",
+            "certificate_hash": "2d17f2bcc70c54d4a80cb0ab1ed370f3d4330544"
+          }
+        },
+        {
+          "client_id": "121612991169-56nnjg6brhko09ho5i5q5m5214a2h4ig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAENsgDg556I1bxdshgDUU_vILYXpJ6hvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121612991169-56nnjg6brhko09ho5i5q5m5214a2h4ig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121612991169:android:b05204acf0fce43ef3b240",
+        "android_client_info": {
+          "package_name": "com.example.kerklytv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121612991169-q1aq3iacb217hh1fdc0lf9e7202fm6sc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kerklytv2",
+            "certificate_hash": "588c1f05d831cc8a33194259864af34d2a33705d"
+          }
+        },
+        {
+          "client_id": "121612991169-56nnjg6brhko09ho5i5q5m5214a2h4ig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAENsgDg556I1bxdshgDUU_vILYXpJ6hvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121612991169-56nnjg6brhko09ho5i5q5m5214a2h4ig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121612991169:android:9e2c27b657fd3127f3b240",
+        "android_client_info": {
+          "package_name": "com.example.kerklyv4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121612991169-56nnjg6brhko09ho5i5q5m5214a2h4ig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAENsgDg556I1bxdshgDUU_vILYXpJ6hvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121612991169-56nnjg6brhko09ho5i5q5m5214a2h4ig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121612991169:android:fe8291e789445d1ef3b240",
+        "android_client_info": {
+          "package_name": "com.example.kerklyv5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121612991169-56nnjg6brhko09ho5i5q5m5214a2h4ig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAENsgDg556I1bxdshgDUU_vILYXpJ6hvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121612991169-56nnjg6brhko09ho5i5q5m5214a2h4ig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

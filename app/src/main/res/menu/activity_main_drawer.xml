@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_carbon_user_service_desk"
+            android:title="@string/servicio" />
+
+        <item
+            android:id="@+id/nav_notificaciones"
+            android:icon="@drawable/ic_noti"
+            android:title="@string/notificaciones" />
+
+        <item
+            android:id="@+id/nav_mensajes"
+            android:icon="@drawable/ic_bi_chat_left_dots"
+            android:title="@string/mensajes" />
+
+        <item
+            android:id="@+id/nav_ordenesPendientes"
+            android:icon="@drawable/ic_icon_park_outline_transaction_order"
+            android:title="@string/ordenes_pendientes" />
+
+        <item
+            android:id="@+id/historialFragment"
+            android:icon="@drawable/ic_history"
+            android:title="@string/historial" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_cerrar_sesion"
+            android:title="@string/cerrarSesion" />
+    </group>
+</menu>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/drawable-v24/fondo.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/drawable-v24/fondo_boton.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/drawable-v24/fondo_contrato.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/drawable-v24/fondo_emergente.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/drawable-v24/fondo_titulos.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/drawable-v24/ic_baseline_account_circle_24.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/drawable-v24/ic_carbon_user_service_desk.xml" value="0.32290076335877865" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/drawable-v24/ic_contract.xml" value="0.32290076335877865" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/drawable-v24/ic_cuenta_background.xml" value="0.33046875" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/drawable-v24/ic_history.xml" value="0.32290076335877865" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/drawable-v24/ic_vector.xml" value="0.30703125" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/drawable-v24/ic_vector__11_.xml" value="0.32290076335877865" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/drawable-v24/ic_vector__3_.xml" value="0.32290076335877865" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/drawable-v24/ic_vector__4_.xml" value="0.32290076335877865" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/drawable-v24/ic_vector__5_.xml" value="0.32290076335877865" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/drawable-v24/ic_vector__6_.xml" value="0.32290076335877865" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/drawable-v24/spinner_style.xml" value="0.3111111111111111" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/drawable/burbuja_chat.xml" value="0.1605" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/drawable/burbuja_chat_der.xml" value="0.1605" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/drawable/fondo_boton_gris.xml" value="0.31805555555555554" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/drawable/fondo_spinner.xml" value="0.28888888888888886" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/drawable/fondo_tranparente.xml" value="0.185" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/drawable/frame_oxxo.xml" value="0.22" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/drawable/ic_frame_46.xml" value="0.32290076335877865" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/drawable/ic_oxxoV2_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/drawable/ic_oxxo_background.xml" value="0.32290076335877865" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/drawable/ic_pdf_background.xml" value="0.32290076335877865" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/drawable/ic_vector.xml" value="0.30703125" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/activity_comprobante_pago_express.xml" value="0.25" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/activity_contrato.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/activity_contrato_express.xml" value="0.33" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/activity_correo.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/activity_cuerpo_mensaje_recibido.xml" value="0.28515625" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/activity_forma_pago_express.xml" value="0.33" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/activity_forma_pago_exrpess.xml" value="0.30625" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/activity_maps.xml" value="0.2" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/activity_maps_ker.xml" value="0.30625" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/activity_mensajes.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/activity_mensajes_express.xml" value="0.33" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/activity_pago.xml" value="0.2" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/activity_pago_express.xml" value="0.25" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/activity_pantalla_inicio.xml" value="0.2109375" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/activity_pedir_servicio_express.xml" value="0.33" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/activity_recuperar_contra.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/activity_recuperar_cuenta.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/activity_registro.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/activity_solicitar_servicio.xml" value="0.11137440758293839" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/activity_tranferencia_bancaria_express.xml" value="0.25" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/app_bar_solicitar_servicio.xml" value="0.2861111111111111" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/card_view_mensaje.xml" value="0.5" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/confirmar_direccion.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/confirmar_nomrbre_no_registrado.xml" value="0.25" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/content_solicitar_servicio.xml" value="0.1" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/contrasenia_modificada.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/cuenta_creada.xml" value="0.25" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/descarga_exitosa.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/descargar_recibo.xml" value="0.2" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/fragment_historial.xml" value="0.2" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/fragment_home.xml" value="0.30625" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/fragment_kerkly.xml" value="0.275" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/fragment_lista_chats.xml" value="0.27265625" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/fragment_mensajes.xml" value="0.33" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/fragment_mensajes_presupuesto.xml" value="0.30625" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/fragment_ordenes_pendientes.xml" value="0.30625" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/mensajes_recycler.xml" value="0.5" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/nav_header_solicitar_servicio.xml" value="0.30625" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/presupuesto_listo.xml" value="0.2" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/presupuesto_solicitud.xml" value="0.2" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/recycler_historial.xml" value="0.30625" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/recycler_kerkly.xml" value="0.275" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/recycler_orden_pendiente.xml" value="0.2828125" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/spinner_s.xml" value="0.33" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/telefono_no_registrado_confirmar.xml" value="0.25" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/trabajador_disponible.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/layout/visualizar_contrato.xml" value="0.25" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/menu/solicitar_servicio.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/menu/toolbar_pedir_servicio_express.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/mipmap-anydpi-v26/ic_cuenta.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/mipmap-anydpi-v26/ic_cuenta_round.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/mipmap-anydpi-v26/ic_launcher_count.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1125" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/mipmap-anydpi-v26/ic_pdf.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/xml/file_paths.xml" value="0.30625" />
+        <entry key="app/src/main/res/drawable-v24/fondo_titulos.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/spinner_style.xml" value="0.1445" />
+        <entry key="app/src/main/res/drawable/btn_redondo.xml" value="0.254" />
+        <entry key="app/src/main/res/drawable/btn_redondo2.xml" value="0.254" />
+        <entry key="app/src/main/res/drawable/btn_redondo3.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/degradado.xml" value="0.179" />
+        <entry key="app/src/main/res/drawable/fondo_boton_gris.xml" value="0.179" />
+        <entry key="app/src/main/res/drawable/fondo_spinner.xml" value="0.1455" />
+        <entry key="app/src/main/res/drawable/frame_oxxo.xml" value="0.254" />
+        <entry key="app/src/main/res/drawable/indicator_selected.xml" value="0.2275" />
+        <entry key="app/src/main/res/drawable/indicator_unselected.xml" value="0.2275" />
+        <entry key="app/src/main/res/layout/about2.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_contrato_express.xml" value="0.33229166666666665" />
+        <entry key="app/src/main/res/layout/activity_intro_slider.xml" value="0.33229166666666665" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.33229166666666665" />
+        <entry key="app/src/main/res/layout/activity_pago.xml" value="0.33229166666666665" />
+        <entry key="app/src/main/res/layout/activity_pantalla_inicio.xml" value="0.33229166666666665" />
+        <entry key="app/src/main/res/layout/activity_pedir_servicio_express.xml" value="0.1983695652173913" />
+        <entry key="app/src/main/res/layout/activity_recuperar_cuenta.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_registro.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_solicitar_servicio.xml" value="0.1703125" />
+        <entry key="app/src/main/res/layout/activity_tranferencia_bancaria_express.xml" value="0.3307291666666667" />
+        <entry key="app/src/main/res/layout/app_bar_solicitar_servicio.xml" value="0.1703125" />
+        <entry key="app/src/main/res/layout/confirmar_nomrbre_no_registrado.xml" value="0.1983695652173913" />
+        <entry key="app/src/main/res/layout/fragment_intro1.xml" value="0.33229166666666665" />
+        <entry key="app/src/main/res/layout/fragment_intro2.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_intro3.xml" value="0.33229166666666665" />
+        <entry key="app/src/main/res/layout/fragment_mensajes_presupuesto.xml" value="0.3307291666666667" />
+        <entry key="app/src/main/res/layout/nav_header_solicitar_servicio.xml" value="0.33229166666666665" />
+        <entry key="app/src/main/res/layout/telefono_no_registrado_confirmar.xml" value="0.1983695652173913" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

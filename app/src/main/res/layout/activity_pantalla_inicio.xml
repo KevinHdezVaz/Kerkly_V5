@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    tools:context=".vista.PantallaInicio">
+
+    <com.scwang.wave.MultiWaveHeader
+        android:id="@+id/waveHeader"
+
+        app:mwhStartColor="@color/purple_700"
+        app:mwhCloseColor="@color/fondo1" app:mwhVelocity="4"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/img_logo_inicio"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        app:srcCompat="@drawable/logo_sin_fondo" />
+
+
+
+    <com.scwang.wave.MultiWaveHeader
+        android:id="@+id/waveHeader2"
+        android:scaleY="-1"
+        app:mwhStartColor="@color/purple_700"
+        app:mwhCloseColor="@color/fondo1"
+        android:layout_width="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_height="100dp"
+        app:mwhVelocity="4"        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="-16dp"
+        tools:layout_editor_absoluteY="631dp" />
+</RelativeLayout>
