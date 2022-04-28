@@ -16,6 +16,7 @@ import com.airbnb.lottie.LottieAnimationView
 import com.example.kerklyv5.R
 import kotlinx.android.synthetic.main.activity_intro_slider.*
 
+
 class IntroSliderActivity : AppCompatActivity() {
 
 

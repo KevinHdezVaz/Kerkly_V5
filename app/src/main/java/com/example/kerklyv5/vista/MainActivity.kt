@@ -32,7 +32,6 @@ import com.example.kerklyv5.extras.IntroSliderActivity
 import com.example.kerklyv5.modelo.Cliente
  import com.google.android.material.textfield.TextInputEditText
 import com.google.android.material.textfield.TextInputLayout
-import kotlinx.android.synthetic.main.activity_main.*
 
 
 /*
@@ -145,6 +144,7 @@ class MainActivity : AppCompatActivity() {
 //si es la primera vez que se inicia la app, se envia al IntroSlider
      //si no, se mantiene en la ventana actual
         if(isFirstTime()){
+            //cambiar a introslider
             startActivity(Intent(this@MainActivity, IntroSliderActivity::class.java))
             finish();
         }else{
@@ -316,5 +316,8 @@ class MainActivity : AppCompatActivity() {
 
     }
 
+    fun pagame(view: View){
+        startActivity(Intent(this@MainActivity, IntroSliderActivity::class.java))
+    }
     
 }

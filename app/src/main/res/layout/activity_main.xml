@@ -127,6 +127,23 @@ android:background="@color/black"
             android:textColor="@color/black"
 
             tools:ignore="TouchTargetSizeCheck" />
+        <Button
+            android:id="@+id/buttonPago"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:backgroundTint="@color/colorMenu"
+            android:fontFamily="@font/quicksand_bold"
+            android:onClick="pagame"
+
+
+            android:padding="15dp"
+            android:text="PAGO"
+            android:textColor="@color/black"
+
+            tools:ignore="TouchTargetSizeCheck" />
+
+
 
         <TextView
             android:id="@+id/textView"

@@ -1,31 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.home.HomeFragment">
+    android:orientation="vertical"
+    >
 
     <ScrollView
-        android:id="@+id/scrollView3"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent">
+         android:layout_width="match_parent"
+        android:layout_height="match_parent" >
 
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="vertical"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintTop_toTopOf="parent">
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
 
 
-            <Space
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content" />
+
 
             <TextView
                 android:id="@+id/textView7"
@@ -37,20 +31,22 @@
                 android:textSize="30sp"
                 android:textStyle="bold" />
 
-            <TextView
-                android:id="@+id/textView4Express"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center"
-                android:layout_margin="20dp"
-                android:text="@string/bienvenido"
-                android:textColor="@color/black"
-                android:textSize="30sp"
-                android:textStyle="bold" />
 
-            <Space
-                android:layout_width="match_parent"
-                android:layout_height="30dp" />
+            <com.airbnb.lottie.LottieAnimationView
+                android:id="@+id/Animacion"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+android:layout_gravity="center"
+
+                android:layout_marginBottom="40dp"
+                app:lottie_autoPlay="true"
+                app:lottie_loop="true"
+                app:lottie_rawRes="@raw/bienvenido">
+
+
+            </com.airbnb.lottie.LottieAnimationView>
+
+
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -73,9 +69,9 @@
                     android:id="@+id/spinnerNormal"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:layout_marginStart="10dp"
                     android:layout_gravity="center"
+                    android:layout_marginStart="10dp"
+                    android:layout_weight="1"
                     android:background="@drawable/spinner_style"
                     android:entries="@array/oficios"
                     tools:ignore="TouchTargetSizeCheck" />
@@ -84,13 +80,11 @@
             </LinearLayout>
 
 
-            <Space
-                android:layout_width="match_parent"
-                android:layout_height="50dp" />
 
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
+                android:layout_marginTop="30dp"
                 android:orientation="vertical">
 
                 <TextView
@@ -103,9 +97,6 @@
                     android:textColor="@color/black"
                     android:textSize="20sp" />
 
-                <Space
-                    android:layout_width="match_parent"
-                    android:layout_height="10dp" />
 
                 <com.google.android.material.textfield.TextInputLayout
                     android:id="@+id/layoutProblematica"
@@ -162,4 +153,4 @@
         </LinearLayout>
     </ScrollView>
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+</RelativeLayout>

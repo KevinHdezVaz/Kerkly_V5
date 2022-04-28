@@ -90,6 +90,7 @@
         <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/mipmap-anydpi-v26/ic_pdf.xml" value="0.20925925925925926" />
         <entry key="..\:/Users/josem/AndroidStudioProjects/KerklyV5/app/src/main/res/xml/file_paths.xml" value="0.30625" />
         <entry key="app/src/main/res/drawable-v24/fondo_titulos.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/item_divider.xml" value="0.185" />
         <entry key="app/src/main/res/drawable-v24/spinner_style.xml" value="0.1445" />
         <entry key="app/src/main/res/drawable/btn_redondo.xml" value="0.254" />
         <entry key="app/src/main/res/drawable/btn_redondo2.xml" value="0.254" />
@@ -112,13 +113,26 @@
         <entry key="app/src/main/res/layout/activity_solicitar_servicio.xml" value="0.1703125" />
         <entry key="app/src/main/res/layout/activity_tranferencia_bancaria_express.xml" value="0.3307291666666667" />
         <entry key="app/src/main/res/layout/app_bar_solicitar_servicio.xml" value="0.1703125" />
+        <entry key="app/src/main/res/layout/cart_item.xml" value="0.3338541666666667" />
+        <entry key="app/src/main/res/layout/confirmar_direccion.xml" value="0.3338541666666667" />
         <entry key="app/src/main/res/layout/confirmar_nomrbre_no_registrado.xml" value="0.1983695652173913" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.3338541666666667" />
         <entry key="app/src/main/res/layout/fragment_intro1.xml" value="0.33229166666666665" />
         <entry key="app/src/main/res/layout/fragment_intro2.xml" value="0.33" />
         <entry key="app/src/main/res/layout/fragment_intro3.xml" value="0.33229166666666665" />
+        <entry key="app/src/main/res/layout/fragment_kerkly.xml" value="0.16236068895643363" />
         <entry key="app/src/main/res/layout/fragment_mensajes_presupuesto.xml" value="0.3307291666666667" />
+        <entry key="app/src/main/res/layout/fragment_ordenes_pendientes.xml" value="0.16236068895643363" />
+        <entry key="app/src/main/res/layout/fragment_slideshow.xml" value="0.16236068895643363" />
+        <entry key="app/src/main/res/layout/mensajes_recycler.xml" value="0.3338541666666667" />
         <entry key="app/src/main/res/layout/nav_header_solicitar_servicio.xml" value="0.33229166666666665" />
+        <entry key="app/src/main/res/layout/payment_activity.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/presupuesto_solicitud.xml" value="0.16236068895643363" />
+        <entry key="app/src/main/res/layout/store_activity.xml" value="0.3338541666666667" />
+        <entry key="app/src/main/res/layout/store_item.xml" value="0.3338541666666667" />
         <entry key="app/src/main/res/layout/telefono_no_registrado_confirmar.xml" value="0.1983695652173913" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1235" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1235" />
       </map>
     </option>
   </component>
