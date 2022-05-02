@@ -116,6 +116,7 @@
         <entry key="app/src/main/res/layout/cart_item.xml" value="0.3338541666666667" />
         <entry key="app/src/main/res/layout/confirmar_direccion.xml" value="0.3338541666666667" />
         <entry key="app/src/main/res/layout/confirmar_nomrbre_no_registrado.xml" value="0.1983695652173913" />
+        <entry key="app/src/main/res/layout/content_solicitar_servicio.xml" value="0.3338541666666667" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.3338541666666667" />
         <entry key="app/src/main/res/layout/fragment_intro1.xml" value="0.33229166666666665" />
         <entry key="app/src/main/res/layout/fragment_intro2.xml" value="0.33" />
@@ -128,6 +129,8 @@
         <entry key="app/src/main/res/layout/nav_header_solicitar_servicio.xml" value="0.33229166666666665" />
         <entry key="app/src/main/res/layout/payment_activity.xml" value="0.33" />
         <entry key="app/src/main/res/layout/presupuesto_solicitud.xml" value="0.16236068895643363" />
+        <entry key="app/src/main/res/layout/recycler_historial.xml" value="0.3338541666666667" />
+        <entry key="app/src/main/res/layout/recycler_orden_pendiente.xml" value="0.3338541666666667" />
         <entry key="app/src/main/res/layout/store_activity.xml" value="0.3338541666666667" />
         <entry key="app/src/main/res/layout/store_item.xml" value="0.3338541666666667" />
         <entry key="app/src/main/res/layout/telefono_no_registrado_confirmar.xml" value="0.1983695652173913" />

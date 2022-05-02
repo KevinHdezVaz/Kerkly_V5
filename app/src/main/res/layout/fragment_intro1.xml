@@ -19,52 +19,50 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:orientation="vertical"
-        android:gravity="center"
         android:layout_height="match_parent"
-        >
-
-    <com.airbnb.lottie.LottieAnimationView
-        android:id="@+id/Animacion"
-        android:layout_width="250dp"
-        android:layout_height="250dp"
-
-
-android:layout_marginBottom="60dp"
-         app:lottie_autoPlay="true"
-        app:lottie_loop="true"
-        app:lottie_rawRes="@raw/servicios">
-
-
-    </com.airbnb.lottie.LottieAnimationView>
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_margin="20dp"
-
-        android:layout_height="wrap_content"
-        android:text="¿Requieres de algun servicio rapidamente?"
-        android:textColor="@color/purple_500"        android:textSize="30dp"
-        android:fontFamily="@font/passion_one_bold"
-android:textAlignment="center"
         android:gravity="center"
-        android:layout_marginTop="20dp"
-        android:textStyle="bold"
-        />
+        android:orientation="vertical">
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_margin="20dp"
-        android:layout_height="wrap_content"
-        android:textAlignment="center"
-        android:text="Con KERKLY eso ya no es un problema."
-        android:fontFamily="@font/quicksand_medium"
-        android:textColor="@android:color/black"
-        android:textSize="18dp"
-        android:gravity="center"
-        android:layout_marginTop="20dp"
-        />
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/Animacion"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
 
-</LinearLayout>
+
+            android:layout_marginBottom="60dp"
+            app:lottie_autoPlay="true"
+            app:lottie_loop="true"
+            app:lottie_rawRes="@raw/servicios">
+
+
+        </com.airbnb.lottie.LottieAnimationView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_margin="20dp"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/passion_one_bold"
+            android:gravity="center"
+            android:text="¿Requieres de algun servicio rapidamente?"
+            android:textAlignment="center"
+            android:textColor="@color/purple_500"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/quicksand_medium"
+            android:gravity="center"
+            android:text="Con KERKLY eso ya no es un problema."
+            android:textAlignment="center"
+            android:textColor="@android:color/black"
+            android:textSize="18dp" />
+
+    </LinearLayout>
 
 </RelativeLayout>
