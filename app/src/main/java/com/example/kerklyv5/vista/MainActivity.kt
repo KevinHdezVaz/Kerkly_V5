@@ -25,6 +25,7 @@ import android.widget.ImageButton
 import android.widget.ImageView
 import android.widget.VideoView
 import androidx.appcompat.app.AppCompatActivity
+import com.example.demo.CheckoutActivity
 import com.example.kerklyv5.R
 import com.example.kerklyv5.controlador.MainActivityControlador
 import com.example.kerklyv5.controlador.Notificacion
@@ -32,6 +33,7 @@ import com.example.kerklyv5.extras.IntroSliderActivity
 import com.example.kerklyv5.modelo.Cliente
  import com.google.android.material.textfield.TextInputEditText
 import com.google.android.material.textfield.TextInputLayout
+import com.stripe.android.PaymentConfiguration
 
 
 /*
@@ -85,6 +87,11 @@ class MainActivity : AppCompatActivity() {
 
       // controlador.verificarSesion(id, this)
 
+
+        PaymentConfiguration.init(
+            applicationContext,
+            "pk_test_51KnpjyGC5CZPzSfGrv3rhilqycFro7CnKiCD3Tq0Kk6ybIse3gfcCHF2y10cT9wQJDdsffgd4cHgEIzyU1vOqCrp00WAeTQXg7"
+        )
 
         //fullscreen
         requestWindowFeature(Window.FEATURE_NO_TITLE);
@@ -317,7 +324,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun pagame(view: View){
-        startActivity(Intent(this@MainActivity, IntroSliderActivity::class.java))
+        startActivity(Intent(this@MainActivity, CheckoutActivity::class.java))
     }
     
 }
