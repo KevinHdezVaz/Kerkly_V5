@@ -20,10 +20,7 @@ import android.view.Window
 import android.view.WindowManager
 import android.view.animation.Animation
 import android.view.animation.AnimationUtils
-import android.widget.Button
-import android.widget.ImageButton
-import android.widget.ImageView
-import android.widget.VideoView
+import android.widget.*
 import androidx.appcompat.app.AppCompatActivity
 import com.example.demo.CheckoutActivity
 import com.example.kerklyv5.R
@@ -31,18 +28,10 @@ import com.example.kerklyv5.controlador.MainActivityControlador
 import com.example.kerklyv5.controlador.Notificacion
 import com.example.kerklyv5.extras.IntroSliderActivity
 import com.example.kerklyv5.modelo.Cliente
- import com.google.android.material.textfield.TextInputEditText
+import com.example.kerklyv5.pago.Pago
+import com.google.android.material.textfield.TextInputEditText
 import com.google.android.material.textfield.TextInputLayout
 import com.stripe.android.PaymentConfiguration
-
-
-/*
-* Validar credenciales de acceso -listo
-* Crear cuenta                   -listo
-* Restablecer la contraseña      -listo
-* Prueba sin registro            -listo
-*
-* */
 
 class MainActivity : AppCompatActivity() {
     private lateinit var editUsuario: TextInputEditText
@@ -55,14 +44,8 @@ class MainActivity : AppCompatActivity() {
     private lateinit var dialog: Dialog
     private lateinit var barra: ProgressDialog
     private lateinit var controlador: MainActivityControlador
-    private lateinit var layout_nombre: TextInputLayout
-    private lateinit var layout_ap: TextInputLayout
-    private lateinit var layout_am: TextInputLayout
-    private lateinit var edit_nombre: TextInputEditText
-    private lateinit var edit_ap: TextInputEditText
-    private lateinit var edit_am: TextInputEditText
     private lateinit var id: String
-    //video fondo
+
     protected lateinit var vv_fondo: VideoView
     protected lateinit var mMediaPlayer: MediaPlayer
     protected var mCurrentVideoPosition: Int = 0
@@ -134,6 +117,8 @@ class MainActivity : AppCompatActivity() {
         dialog = Dialog(this)
 
 
+
+
         //animaciones
         animation = AnimationUtils.loadAnimation(this, R.anim.advanced_inicio)
         ivLogo.startAnimation(animation)
@@ -193,6 +178,8 @@ class MainActivity : AppCompatActivity() {
                 // val i = Intent(this, SolicitarServicio::class.java)
                 // i.putExtras(b)
 
+//DATOS CORRECTOS
+                Toast.makeText(this,"datos correctos",Toast.LENGTH_LONG).show()
 
                 val u = Cliente(editUsuario.text.toString(), editContra.text.toString())
                 controlador.verficiarUsuario(u, this)
@@ -324,7 +311,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun pagame(view: View){
-        startActivity(Intent(this@MainActivity, CheckoutActivity::class.java))
+        startActivity(Intent(this@MainActivity, Pago::class.java))
     }
     
 }

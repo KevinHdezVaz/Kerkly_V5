@@ -47,6 +47,8 @@ class MainActivityControlador {
                     try {
                         entrada = BufferedReader(InputStreamReader(t?.body?.`in`()))
                         Respuesta = entrada.readLine()
+
+
                     }catch (e: Exception){
                         e.printStackTrace()
                     }
@@ -56,6 +58,8 @@ class MainActivityControlador {
                         intent.putExtra("Telefono", usuario.getUsuario())
                         contexto.startActivity(intent)
                         contexto.finish()
+
+
                     }
                     Toast.makeText(contexto, Respuesta, Toast.LENGTH_SHORT).show()
 
@@ -97,19 +101,10 @@ class MainActivityControlador {
                         if (entrada == usuario.getTelefonoNoR()) {
                             layoutTelefono.error = null
                             val i = Intent(contexto, PedirServicioExpress::class.java)
-                          //  getNombreNoR(usuario)
 
-                          // val n = nombre
-                           // val ap = apellidoP
-                          //  val am = apellidoM
-                          //  val inten = intentos
 
                             b.putString("Teléfono No Registrado", usuario.getTelefonoNoR())
 
-                            //b.putString("NombreNoR", n)
-                           // b.putString("ApellidoPNoR", ap)
-                           // b.putString("ApellidoMNoR", am)
-                           // b.putInt("Numero de intentos", inten)
 
                             i.putExtras(b)
                             i.flags = Intent.FLAG_ACTIVITY_NEW_TASK
@@ -133,33 +128,7 @@ class MainActivityControlador {
     fun verificarNumeroTelNoR(contexto: AppCompatActivity): Boolean {
         var band = false
         var usuario = Cliente(Settings.Secure.getString(contexto.contentResolver, Settings.Secure.ANDROID_ID))
-        //telefonoNoRegistado = Settings.Secure.getString(this.contentResolver, Settings.Secure.ANDROID_ID)
 
-
-        /*val tel: TelephonyManager = this.getSystemService(Context.TELEPHONY_SERVICE) as TelephonyManager
-        val arreglo = arrayOf( Manifest.permission.READ_PHONE_STATE)
-
-        if (ActivityCompat.checkSelfPermission(
-                this,
-                Manifest.permission.READ_PHONE_STATE
-            ) != PackageManager.PERMISSION_GRANTED
-        ) {
-            requestPermissions(
-                this,
-                arreglo, REQUEST_READ_PHONE_STATE
-            )
-            // TODO: Consider calling
-            //    ActivityCompat#requestPermissions
-            // here to request the missing permissions, and then overriding
-            //   public void onRequestPermissionsResult(int requestCode, String[] permissions,
-            //                                          int[] grantResults)
-            // to handle the case where the user grants the permission. See the documentation
-            // for ActivityCompat#requestPermissions for more details.
-           // Toast.makeText(this, telefonoNoRegistado, Toast.LENGTH_LONG).show()
-
-            return
-        }
-        telefonoNoRegistado = tel.line1Number*/
         return band
     }
 
